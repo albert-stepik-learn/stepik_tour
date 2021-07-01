@@ -10,7 +10,7 @@ The Django application presented here shows three types of pages:
 
 ## Prerequisites
 
-You must use Python 3.7 or a newer version.
+The application requires Python 3.7 or a newer version.
 
 ## Installation
 
