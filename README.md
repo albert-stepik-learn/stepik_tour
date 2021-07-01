@@ -14,7 +14,7 @@ The application requires Python 3.7 or a newer version.
 
 ## Installation
 
-To use this application go through the following steps.
+To use this application, go through the following steps:
 
 1. Download this repository and unpack it. This will create the ``stepik_tour-main`` directory.
 0. Go in this directory:
