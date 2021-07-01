@@ -1,6 +1,6 @@
 # Stepik Tours: Project 1
 
-This is a part of my training at https://stepik.org/course/63298.
+This is a part of my learning at https://stepik.org/course/63298.
 
 The Django application presented here shows three types of pages:
 
