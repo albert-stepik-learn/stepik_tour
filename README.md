@@ -2,6 +2,12 @@
 
 This is a part of my training at https://stepik.org/course/63298.
 
+The Django application presented here shows three types of pages:
+
+- ``main`` shows a list of departures and tours
+- ``departure`` shows a list of tours available from a particular city
+-  ``tour`` presents a particular tour's details
+
 ## Prerequisites
 
 You must use Python 3.7 or a newer version.
@@ -26,7 +32,7 @@ To use this application go through the following steps.
 0. Activate the virtual environment:
 
     ```bazaar
-    source venv/bin/activaate
+    source venv/bin/activate
     ```
    
 0. Install the required Python packages:
